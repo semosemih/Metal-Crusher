@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1d6bc43-156c-434b-a3a1-335a96ddbab3" name="Changes" comment="" />
+    <list default="true" id="c1d6bc43-156c-434b-a3a1-335a96ddbab3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Metal Crusher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Metal Crusher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IWeapon.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/IWeapon.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IWeapon.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/IWeapon.cs.meta" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +17,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "semosemih"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/semosemih/Metal-Crusher.git",
+    "accountId": "d9e275ef-1899-4b1a-a159-495c049eacb3"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3073086ca1d441feac1d5523aea38aed1eaa00/cd/4a3c4318/Vector3.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Users/semih.sengul/unity/Metal Crusher/Assets/Scripts/IWeapon.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6a301f21fe65458489a12b41436f60d631e00/09/84c0b707/Event.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -29,6 +45,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,6 +119,7 @@
       <workItem from="1760362417070" duration="1509000" />
       <workItem from="1760442408824" duration="7611000" />
       <workItem from="1760515732124" duration="22714000" />
+      <workItem from="1760784546102" duration="3330000" />
     </task>
     <servers />
   </component>
